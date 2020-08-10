@@ -7,7 +7,6 @@ sections:
 - type: document
   path: src/pages/Contact.vue
   label: Doc
-  match: "**/*"
 - type: directory
   path: journal
   label: Journal
